@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Money Hack Updated
 // @namespace    https://github.com/TTVJDESS/Money-Simulator-Cheat-GUI
-// @version      0.1
+// @version      0.3
 // @description  Custom Hack For My Website(http://money-sim.free.nf/)
 // @author       JDESS
 // @match        http://money-sim.free.nf/*
