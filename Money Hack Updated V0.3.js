@@ -2,7 +2,7 @@
 // @name         Money Hack Updated
 // @namespace    https://github.com/TTVJDESS/Money-Simulator-Cheat-GUI
 // @version      0.3
-// @description  Custom Hack For My Website(http://money-sim.free.nf/)
+// @description  This Is A Cheat for my Game (http://money-sim.free.nf/?i=2) which as the name implies is a money sim, this script took me around 2 hours and this is just an outline of it without the features however please DON'T REUPLOAD as to it doesn't give me the credit for my code. thanks - JDESS
 // @author       JDESS
 // @match        http://money-sim.free.nf/*
 // @grant        none
